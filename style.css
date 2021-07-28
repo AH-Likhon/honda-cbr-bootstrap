@@ -1,0 +1,39 @@
+
+.bg-header{
+    background-color: #264653;
+}
+
+.btn-bg-color{
+    background-color: #E76F51;
+}
+
+.modal-btn-bg{
+    background-color: #E76F51 ! important;
+}
+
+.feature-p-color{
+    color: #E77C40;
+}
+
+.hr-custom-width{
+    width: 50px;
+    padding: 1px 0px;
+    background-color: #E77C40;
+}
+
+.fas.fa-star, .far.fa-star{
+    font-size: 18px;
+    color: #E77C40;
+}
+
+.bg-img{
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.685), rgba(0, 0, 0, 0.733)), url(images/bikebd-hero-image.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 520px;
+}
+
+.search-title{
+    margin-top: -30px;
+}
